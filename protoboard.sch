@@ -5,13 +5,13 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Protoboard"
-Date "2022-09-15"
-Rev ""
+Date "2022-09-16"
+Rev "v1.0.0"
 Comp "Sporniket"
 Comment1 ""
-Comment2 ""
+Comment2 "Original repository : https://github.com/sporniket/protoboard"
 Comment3 ""
-Comment4 "Original repository : ..."
+Comment4 ""
 $EndDescr
 $Comp
 L Connector_Generic:Conn_01x34 J119

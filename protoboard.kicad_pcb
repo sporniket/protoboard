@@ -14,6 +14,7 @@
     (title Protoboard)
     (date 2022-09-15)
     (company Sporniket)
+    (comment 2 "Original repository : https://github.com/sporniket/protoboard")
   )
 
   (layers
@@ -390,7 +391,7 @@
   )
 
   (module cliparts:logo--cc--zero (layer F.Cu) (tedit 0) (tstamp 632530DE)
-    (at 87.63 82.55)
+    (at 53.34 66.675)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -448,7 +449,7 @@
   )
 
   (module cliparts:logo--cc--cc (layer F.Cu) (tedit 0) (tstamp 632530BF)
-    (at 87.63 77.47)
+    (at 48.26 66.675)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -2982,10 +2983,10 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (gr_text "NO WARRANTY OF ANY KIND" (at 87.63 165.1) (layer F.SilkS)
+  (gr_text "WITHOUT ANY WARRANTY; without even the implied warranty of\nSAFETY, MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE" (at 87.63 170.815) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15) italic))
   )
-  (gr_text "The protoboard by Sporniket — v1.0.0" (at 87.63 71.12) (layer F.SilkS)
+  (gr_text "The protoboard by Sporniket — v1.0.0\nhttps://github.com/sporniket/protoboard" (at 87.63 65.405) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15) italic))
   )
   (gr_text ⊖ (at 43.18 74.295) (layer F.SilkS)
