@@ -1,4 +1,4 @@
-update=ven. 16 sept. 2022 07:52:58
+update=ven. 16 sept. 2022 13:45:43
 version=1
 last_client=kicad
 [general]
@@ -12,16 +12,6 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[schematic_editor]
-version=1
-PageLayoutDescrFile=page-a3-landscape-with-a4-mark.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=page-description.kicad_wks
@@ -247,3 +237,13 @@ uViaDrill=0.2032
 dPairWidth=0.4064
 dPairGap=0.4064
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=page-a3-landscape-with-a4-mark.kicad_wks
+PlotDirectoryName=export
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1

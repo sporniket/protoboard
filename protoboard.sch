@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Protoboard"
-Date "2022-09-16"
+Date "2022-10-07"
 Rev "v1.0.0"
 Comp "Sporniket"
 Comment1 ""
@@ -6193,6 +6193,14 @@ Wire Wire Line
 	11650 5800 11650 6200
 Wire Wire Line
 	12650 5800 12650 6200
+Text Label 9150 1600 2    50   ~ 0
+VCC1
+Text Label 10150 1600 2    50   ~ 0
+VCC2
+Text Label 11650 1600 2    50   ~ 0
+GND1
+Text Label 12650 1600 2    50   ~ 0
+GND2
 Wire Bus Line
 	3750 5900 3750 9400
 Wire Bus Line
