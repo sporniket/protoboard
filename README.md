@@ -12,7 +12,7 @@ Content
 
 ## 1. What is **Sporniket's protoboard**, and when to use it ?
 
-**Sporniket's protoboard** is a custom prototyping board with 976 points arranged like a breadboard, that fits inside a 10cm×10cm square.
+**Sporniket's protoboard** is a custom prototyping board with 976 points arranged like a breadboard, that fits inside a 10cm×11cm rectangle.
 
 This is a project designed with [Kicad](https://www.kicad.org/), version 5.
 
