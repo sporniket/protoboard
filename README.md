@@ -25,7 +25,9 @@ This is a project designed with [Kicad](https://www.kicad.org/), version 5.
 
 ### Releases notes
 
-> Nothing yet
+#### v1.0.0
+
+* Initial release, schematics and gerbers.
 
 ## 2. What should you know before using **Sporniket's protoboard** ?
 
