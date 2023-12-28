@@ -16,6 +16,10 @@ Content
 
 This is a project designed with [Kicad](https://www.kicad.org/), version 5.
 
+### Gallery
+
+![The board in action](gallery/v1/v1-in-action.jpg)
+
 
 ### Licence
 
