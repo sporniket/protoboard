@@ -14,7 +14,7 @@ Content
 
 **Sporniket's protoboard** is a custom prototyping board with 976 points arranged like a breadboard, that fits inside a 10cm×11cm rectangle.
 
-This is a project designed with [Kicad](https://www.kicad.org/), version 5.
+This is a project designed with [Kicad](https://www.kicad.org/), version 7.
 
 ### Gallery
 
@@ -35,7 +35,7 @@ This is a project designed with [Kicad](https://www.kicad.org/), version 5.
 
 ## 2. What should you know before using **Sporniket's protoboard** ?
 
-**Sporniket's protoboard** is designed using [Kicad](https://www.kicad.org/), version 5.
+**Sporniket's protoboard** is designed using [Kicad](https://www.kicad.org/), version 7.
 
 > Do not use **Sporniket's protoboard** if this project is not suitable for your project.
 
